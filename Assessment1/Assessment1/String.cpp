@@ -32,3 +32,15 @@ String& String::Append(const String& _str) {
 
 	// 
 }
+
+String& String::ToLower() {
+	
+	// TODO: insert return statement here
+
+
+}
+
+String& String::ToUpper() {
+
+	// TODO: insert return statement here
+}
