@@ -20,3 +20,15 @@ String::~String() {
 
 
 }
+
+size_t String::Length() const {
+	
+	return size_t();
+}
+
+String& String::Append(const String& _str) {
+	
+	// TODO: insert return statement here
+
+	// 
+}
